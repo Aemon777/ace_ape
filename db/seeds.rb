@@ -32,3 +32,5 @@ plan4 = Plan.new
 plan4.name = "Ramp Harder"
 plan4.user_id = user2.id
 plan4.save!
+
+
